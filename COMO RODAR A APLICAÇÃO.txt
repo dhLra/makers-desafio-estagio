@@ -1,0 +1,5 @@
+Assim que a pagina é carregada, existem dois botões, um para cadastro e outro para consulta, na consulta você consegue alugar, editar e excluir o carro.
+
+O banco de dados esta sendo enviado junto ao projeto, porem, se for necessario recria-lo a ordem correta das colunas são: id, marca, modelo, tipo, dispo.
+
+Utilizei o xampp para a criação dos servidores locais.
